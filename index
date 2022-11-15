@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html <="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Which plane do you like?</h1>
+    </header>
+    <main>
+        <div class="center">
+            <section class="main-section">
+                <figure class="main-card">
+                    <div class="main-card-container">
+                        <img src="i.ytimg.com/vi/NbfdLIRy1Cc/hqdefault.jpg" alt="plane 1" width="480" height="360">
+                    </div>
+                    <figcaption class="main-car-desc">
+                        
+ Plane 1
+                    </figcaption>
+                </figure>
+
+                < <="main-card">
+                    <div <="main-card-container">
+                        <img <="//3.bp.blogspot.com/-bxZCTQugsS4/UcXNDL9gvkI/AAAAAAAACMc/ugteq-WuzHY/s1600/z0183.jpg" alt="plane 2" width ="271" height="186">
+                    </div>
+                    <figcaption <="main-car-desc">
+ Plane 2
+                    </figcaption>
+                </figure>
+
+                < <="main-card">
+                    <div <="main-card-container">
+                        <img <="//pw.artfile.me/wallpaper/26-08-2017/360x203/boeing-747-aviaciya-passazhirskie-samoly-1217152.jpg" alt="plane 3" width ="360" height="203">
+                    </div>
+                    <figcaption <="main-car-desc">
+ Plane 3
+                    </figcaption>
+                </figure>
+
+                < <="main-card">
+                    <div <="main-card-container">
+                        <img <="im.jigsawplanet.com/?rc=img&pid=33c7757bdc2e&size=160" alt="plane 4" width ="160" height="109">
+                    </div>
+                    <figcaption <="main-car-desc">
+ Plane 4
+                    </figcaption>
+                </figure>
+
+                < <="main-card">
+                    <div <="main-card-container">
+                        <img <="img1.goodfon.ru/original/320x240/a/cf/samolet-fon-nebo-oblaka.jpg " alt="plane 5" width ="320" height="240">
+                    </div>
+                    <figcaption <="main-car-desc">
+ Plane 5
+                    </figcaption>
+                </figure>
+
+                <figure class="main-card">
+                    <div class="main-card-container">
+                        <img src="i.ytimg.com/vi/rqvjxPz9dmI/hqdefault.jpg" alt="plane 6" width="480" height="360">
+                    </div>
+                    <figcaption class="main-car-desc">
+ Plane 6
+                    </figcaption>
+                </figure>
+
+                <figure class="main-card">
+                    <div class="main-card-container">
+                        <img src="i1.wallbox.ru/wallpapers/small/201546/ae26af5d5c3c0db.jpg" alt="plane 7" width="360" height="225">
+                    </div>
+                    <figcaption class="main-car-desc">
+ Plane 7
+                    </figcaption>
+                </figure>
+
+                <figure class="main-card">
+                    <div class="main-card-container">
+                        <img src="img.youtube.com/vi/bKtLUbZcIvk/hqdefault.jpg" alt="plane 8" width="480" height="360">
+                    </div>
+                    <figcaption class="main-car-desc">
+ Plane 8
+                    </figcaption>
+                </figure>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <span class="footer-text">
+            Good luck!!
+        </span>
+    </footer>
+</body>
+</html>
